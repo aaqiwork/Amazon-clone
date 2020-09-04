@@ -1,16 +1,8 @@
-# amazon
+# Amazon-clone 
 
-A new Flutter project.
+Flutter project to imitate Amazon mobile app with a little redesign of colours inspired by 
+https://dribbble.com/shots/4111428-Amazon-Concept-Home-Page-Mobile
 
-## Getting Started
+![Image of Design](https://static.dribbble.com/users/972024/screenshots/4111428/amazon-home-page-mobile_1x.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download and check it out for yourself!
