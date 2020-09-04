@@ -38,7 +38,7 @@ class ProductCard extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: <Widget>[
                     Text("See all deals", style: buttonStyleblue,),
-                    Icon(Icons.arrow_forward_ios, color: Colors.blue, size: 15,)
+                    Icon(Icons.arrow_forward_ios, color: Colors.yellow, size: 15,)
                   ],
                 ),
               ),

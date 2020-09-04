@@ -8,7 +8,7 @@ class TopBar extends StatelessWidget {
     return Container(
       padding: EdgeInsets.only(top: 15),
       color: dark_blue,
-      height: 70,
+      height: 73,
       child: Column(
         children: <Widget>[
           Container(

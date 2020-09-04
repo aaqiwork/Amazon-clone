@@ -10,7 +10,7 @@ class CategoryCard extends StatelessWidget {
     return Container(
       padding: EdgeInsets.all(15),
       margin: EdgeInsets.only(top: 5),
-      height: 350,
+      height: 353,
       width: 100,
       color: Colors.white,
       child: Column(
